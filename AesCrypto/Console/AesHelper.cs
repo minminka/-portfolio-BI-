@@ -5,4 +5,4 @@ using System.Text;
 
 namespace Console
 {
-    pub
+    public static
