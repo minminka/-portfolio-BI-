@@ -5,4 +5,4 @@ using System.Text;
 
 namespace Console
 {
-    public static class Ae
+    public static class AesHelp
