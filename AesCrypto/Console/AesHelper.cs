@@ -7,4 +7,4 @@ namespace Console
 {
     public static class AesHelper
     {
-        private con
+        private const string IV 
