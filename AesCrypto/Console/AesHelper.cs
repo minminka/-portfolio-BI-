@@ -7,4 +7,4 @@ namespace Console
 {
     public static class AesHelper
     {
-        private const string IV = "2wDwCb
+        private const string IV = "2wDwCbJtSVuTlXhL
