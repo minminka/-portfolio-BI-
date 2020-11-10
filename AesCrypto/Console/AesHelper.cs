@@ -8,4 +8,4 @@ namespace Console
     public static class AesHelper
     {
         private const string IV = "2wDwCbJtSVuTlXhL";
-        private const string KE
+        private const string KEY = "OZMd
