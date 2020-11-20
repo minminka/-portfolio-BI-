@@ -10,4 +10,4 @@ namespace Console
         private const string IV = "2wDwCbJtSVuTlXhL";
         private const string KEY = "OZMd2MfM6YuoFNLXM50FpJdjX0R926GF";
 
-        public st
+        public static string
