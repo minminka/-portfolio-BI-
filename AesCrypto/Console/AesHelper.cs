@@ -12,3 +12,4 @@ namespace Console
 
         public static string Encrypt(this string data)
         {
+            b
