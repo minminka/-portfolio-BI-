@@ -12,4 +12,6 @@ namespace Console
 
         public static string Encrypt(this string data)
         {
-            byte[] buffer = nu
+            byte[] buffer = null;
+
+      
