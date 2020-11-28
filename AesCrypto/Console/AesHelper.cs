@@ -14,4 +14,5 @@ namespace Console
         {
             byte[] buffer = null;
 
-            Aes aes = Aes.Cre
+            Aes aes = Aes.Create();
+    
