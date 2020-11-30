@@ -15,4 +15,4 @@ namespace Console
             byte[] buffer = null;
 
             Aes aes = Aes.Create();
-            aes.IV = Encoding.UTF
+            aes.IV = Encoding.UTF8.GetBytes(IV);
