@@ -19,4 +19,5 @@ namespace Console
             aes.Key = Encoding.UTF8.GetBytes(KEY);
 
             ICryptoTransform encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
-            using (MemoryStream ms = new MemoryStream()
+            using (MemoryStream ms = new MemoryStream())
+      
