@@ -21,4 +21,4 @@ namespace Console
             ICryptoTransform encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
             using (MemoryStream ms = new MemoryStream())
             {
-                using (CryptoStream cs = ne
+                using (CryptoStream cs = new CryptoStrea
