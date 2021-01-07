@@ -23,4 +23,4 @@ namespace Console
             {
                 using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Write))
                 {
-                    using (StreamWriter sw = new S
+                    using (StreamWriter sw = new StreamWriter
