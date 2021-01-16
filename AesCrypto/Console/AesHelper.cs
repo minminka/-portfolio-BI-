@@ -25,4 +25,5 @@ namespace Console
                 {
                     using (StreamWriter sw = new StreamWriter(cs))
                     {
-                        sw
+                        sw.Write(data);
+   
