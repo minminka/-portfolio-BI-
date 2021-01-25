@@ -28,4 +28,5 @@ namespace Console
                         sw.Write(data);
                     }
                 }
-                buffer = ms.ToArra
+                buffer = ms.ToArray();
+   
