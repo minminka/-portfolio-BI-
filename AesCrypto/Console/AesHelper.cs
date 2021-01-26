@@ -30,4 +30,4 @@ namespace Console
                 }
                 buffer = ms.ToArray();
             }
-            return 
+            return Convert.ToB
