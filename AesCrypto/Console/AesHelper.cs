@@ -33,4 +33,4 @@ namespace Console
             return Convert.ToBase64String(buffer);
         }
 
-    
+        public stat
