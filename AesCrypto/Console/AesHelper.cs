@@ -30,4 +30,5 @@ namespace Console
                 }
                 buffer = ms.ToArray();
             }
-            return Convert.ToBase64Strin
+            return Convert.ToBase64String(buffer);
+    
