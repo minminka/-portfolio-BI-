@@ -33,4 +33,6 @@ namespace Console
             return Convert.ToBase64String(buffer);
         }
 
-        public static string Decrypt(this string dat
+        public static string Decrypt(this string data)
+        {
+ 
