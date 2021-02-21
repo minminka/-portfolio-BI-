@@ -35,4 +35,4 @@ namespace Console
 
         public static string Decrypt(this string data)
         {
-            by
+            byte[] b
