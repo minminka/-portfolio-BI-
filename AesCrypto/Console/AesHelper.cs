@@ -35,4 +35,4 @@ namespace Console
 
         public static string Decrypt(this string data)
         {
-            byte[] buffer = Convert.FromBase
+            byte[] buffer = Convert.FromBase64String(d
