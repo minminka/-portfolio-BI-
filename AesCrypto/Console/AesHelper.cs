@@ -35,4 +35,4 @@ namespace Console
 
         public static string Decrypt(this string data)
         {
-            byte[] b
+            byte[] buffer = Conv
