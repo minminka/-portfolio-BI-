@@ -38,4 +38,4 @@ namespace Console
             byte[] buffer = Convert.FromBase64String(data);
             string result = null;
 
-    
+          
