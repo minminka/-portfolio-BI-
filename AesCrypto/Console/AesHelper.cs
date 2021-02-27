@@ -36,4 +36,6 @@ namespace Console
         public static string Decrypt(this string data)
         {
             byte[] buffer = Convert.FromBase64String(data);
-            string result =
+            string result = null;
+
+    
