@@ -38,4 +38,5 @@ namespace Console
             byte[] buffer = Convert.FromBase64String(data);
             string result = null;
 
-            Aes aes = Aes.Creat
+            Aes aes = Aes.Create();
+       
