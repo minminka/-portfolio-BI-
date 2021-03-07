@@ -39,4 +39,5 @@ namespace Console
             string result = null;
 
             Aes aes = Aes.Create();
-            aes.IV = Encoding.UTF8.Ge
+            aes.IV = Encoding.UTF8.GetBytes(IV);
+ 
