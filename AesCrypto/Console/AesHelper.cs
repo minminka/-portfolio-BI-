@@ -42,4 +42,4 @@ namespace Console
             aes.IV = Encoding.UTF8.GetBytes(IV);
             aes.Key = Encoding.UTF8.GetBytes(KEY);
 
-            ICryptoTransform encrypt
+            ICryptoTransform encryptor = aes.Crea
