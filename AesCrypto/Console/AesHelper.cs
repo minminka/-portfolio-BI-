@@ -45,4 +45,4 @@ namespace Console
             ICryptoTransform encryptor = aes.CreateDecryptor(aes.Key, aes.IV);
             using (MemoryStream ms = new MemoryStream(buffer))
             {
-                using (CryptoStream cs = new CryptoStream(ms,
+                using (CryptoStream cs = new CryptoStream(ms, encryptor, 
