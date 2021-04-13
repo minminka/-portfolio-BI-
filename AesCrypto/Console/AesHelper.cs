@@ -46,4 +46,4 @@ namespace Console
             using (MemoryStream ms = new MemoryStream(buffer))
             {
                 using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Read))
-    
+             
