@@ -47,4 +47,4 @@ namespace Console
             {
                 using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Read))
                 {
-                
+                    usin
