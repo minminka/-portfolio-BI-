@@ -47,4 +47,4 @@ namespace Console
             {
                 using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Read))
                 {
-                    using (StreamReader sr = new St
+                    using (StreamReader sr = new StreamReader(c
