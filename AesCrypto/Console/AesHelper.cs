@@ -50,3 +50,4 @@ namespace Console
                     using (StreamReader sr = new StreamReader(cs))
                     {
                         result = sr.ReadToEnd();
+          
