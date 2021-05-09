@@ -56,4 +56,5 @@ namespace Console
 
             return result;
         }
- 
+    }
+}
