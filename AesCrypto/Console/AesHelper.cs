@@ -54,4 +54,4 @@ namespace Console
                 }
             }
 
-            
+            return res
