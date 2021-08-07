@@ -8,4 +8,5 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Console</RootNamespace>
-    <AssemblyName>Console</AssemblyN
+    <AssemblyName>Console</AssemblyName>
+    <T
