@@ -10,4 +10,4 @@
     <RootNamespace>Console</RootNamespace>
     <AssemblyName>Console</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
-    <FileAl
+    <FileAlignment>512</
