@@ -18,4 +18,4 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputP
+    <OutputPath>bin\Debug
