@@ -19,4 +19,4 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE</DefineCon
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
