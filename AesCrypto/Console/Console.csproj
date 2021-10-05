@@ -20,4 +20,5 @@
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorR
+    <ErrorReport>prompt</ErrorReport>
+  
