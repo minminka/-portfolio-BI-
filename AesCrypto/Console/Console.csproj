@@ -27,4 +27,5 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPa
+    <OutputPath>bin\Release\</OutputPath>
+ 
