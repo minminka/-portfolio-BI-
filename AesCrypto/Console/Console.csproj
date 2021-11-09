@@ -29,4 +29,5 @@
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
-    <ErrorReport>prompt</Erro
+    <ErrorReport>prompt</ErrorReport>
+    <
