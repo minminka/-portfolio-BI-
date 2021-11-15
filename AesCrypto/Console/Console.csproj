@@ -33,4 +33,5 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" 
+    <Reference Include="System" />
+    <
