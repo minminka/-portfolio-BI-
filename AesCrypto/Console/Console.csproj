@@ -34,4 +34,5 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="S
+    <Reference Include="System.Core" />
+ 
