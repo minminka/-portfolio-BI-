@@ -40,4 +40,4 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
-    <Reference Include="Sy
+    <Reference Include="System.Xml
