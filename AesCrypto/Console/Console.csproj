@@ -43,4 +43,5 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aes
+    <Compile Include="AesHelper.cs" />
+ 
