@@ -44,4 +44,4 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AesHelper.cs" />
-    <Compi
+    <Compile In
