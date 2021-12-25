@@ -45,4 +45,4 @@
   <ItemGroup>
     <Compile Include="AesHelper.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="P
+    <Compile Include="Properties\Assem
