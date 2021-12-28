@@ -45,4 +45,5 @@
   <ItemGroup>
     <Compile Include="AesHelper.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.c
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  
