@@ -50,4 +50,4 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <Import Project="$(MSBuild
+  <Import Project="$(MSBuildToolsPath)\M
