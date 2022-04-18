@@ -7,4 +7,4 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("Console")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfigur
+[assembly: AssemblyConfiguration("")]
