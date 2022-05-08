@@ -10,4 +10,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Console")]
-[assembly: AssemblyCopyright("Copyright 
+[assembly: AssemblyCopyright("Copyright ©  2016")
