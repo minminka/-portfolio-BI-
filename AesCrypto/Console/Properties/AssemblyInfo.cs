@@ -11,4 +11,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Console")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
-[assembly: A
+[assembly: AssemblyTrade
