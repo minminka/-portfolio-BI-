@@ -1,2 +1,2 @@
 # CryptographyAESinDotNet
-AES Cryptography in .Ne
+AES Cryptography in .Net Sample
